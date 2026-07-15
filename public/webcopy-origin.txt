@@ -1,0 +1,740 @@
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap
+File Name: D:\hpspowerhouse\hpspower.in\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Inter:300i%2C300%2C400i%2C400%2C500%2C600%2C700|Poppins:400i%2C400%2C500i%2C500%2C600%2C700&subset=latin
+File Name: D:\hpspowerhouse\hpspower.in\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: D:\hpspowerhouse\hpspower.in\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: D:\hpspowerhouse\hpspower.in\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: D:\hpspowerhouse\hpspower.in\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: D:\hpspowerhouse\hpspower.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dtRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9tRipWA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfAZ9hjQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\montserrat\v31\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\poppins\v24\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v51/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\roboto\v51\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v36/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: D:\hpspowerhouse\hpspower.in\s\robotoslab\v36\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://hpspower.in/
+File Name: D:\hpspowerhouse\hpspower.in\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/about-us/
+File Name: D:\hpspowerhouse\hpspower.in\about-us\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/contact-us/
+File Name: D:\hpspowerhouse\hpspower.in\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/earthing/
+File Name: D:\hpspowerhouse\hpspower.in\earthing\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/earthing/page/2/
+File Name: D:\hpspowerhouse\hpspower.in\earthing\page\2\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/portfolio-category/products/
+File Name: D:\hpspowerhouse\hpspower.in\portfolio-category\products\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/portfolio/ese-lightning-arrestor/
+File Name: D:\hpspowerhouse\hpspower.in\portfolio\ese-lightning-arrestor\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/portfolio/hot-dip-galvanized/
+File Name: D:\hpspowerhouse\hpspower.in\portfolio\hot-dip-galvanized\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/portfolio/solar-system/
+File Name: D:\hpspowerhouse\hpspower.in\portfolio\solar-system\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/cast-iron-pit-cover/
+File Name: D:\hpspowerhouse\hpspower.in\product\cast-iron-pit-cover\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/copper-bonded-earthing-electrode/
+File Name: D:\hpspowerhouse\hpspower.in\product\copper-bonded-earthing-electrode\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/copper-bonded-earthing-rod/
+File Name: D:\hpspowerhouse\hpspower.in\product\copper-bonded-earthing-rod\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/copper-bonded-earthing/
+File Name: D:\hpspowerhouse\hpspower.in\product\copper-bonded-earthing\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/copper-earthing-electrode/
+File Name: D:\hpspowerhouse\hpspower.in\product\copper-earthing-electrode\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/copper-plated-rod-2/
+File Name: D:\hpspowerhouse\hpspower.in\product\copper-plated-rod-2\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/copper-plated-rod/
+File Name: D:\hpspowerhouse\hpspower.in\product\copper-plated-rod\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/earthing-testing-system/
+File Name: D:\hpspowerhouse\hpspower.in\product\earthing-testing-system\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/gi-conventional-plate-earthing/
+File Name: D:\hpspowerhouse\hpspower.in\product\gi-conventional-plate-earthing\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/gi-perforated-earthing-pipe/
+File Name: D:\hpspowerhouse\hpspower.in\product\gi-perforated-earthing-pipe\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/ms-pit-cover/
+File Name: D:\hpspowerhouse\hpspower.in\product\ms-pit-cover\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/product/rcc-pit-cover/
+File Name: D:\hpspowerhouse\hpspower.in\product\rcc-pit-cover\index.htm
+Content Type: text/html
+
+Uri: https://hpspower.in/wp-content/plugins/burst-statistics/assets/js/timeme/timeme.min.js?ver=1771395993
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\burst-statistics\assets\js\timeme\timeme.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInLeft.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInLeft.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInRight.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInRight.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.47.0
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.35.5
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://hpspower.in/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/metform/public/assets/css/text-editor.css?ver=4.1.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\metform\public\assets\css\text-editor.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/metform/public/assets/lib/cute-alert/style.css?ver=4.1.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\metform\public\assets\lib\cute-alert\style.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\client\blocks\wc-blocks.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\css\woocommerce-layout.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\css\woocommerce-smallscreen.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.5.3
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/css/frontend/modern/wpforms-full.min.css?ver=1.9.9.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\css\frontend\modern\wpforms-full.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms-modern.min.js?ver=1.9.9.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms-modern.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.9.9.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\js\frontend\wpforms.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.9.9.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\js\share\utils.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\lib\jquery.validate.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/lib/mailcheck.min.js?ver=1.1.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\lib\mailcheck.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/plugins/wpforms-lite/assets/lib/punycode.min.js?ver=1.0.0
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\plugins\wpforms-lite\assets\lib\punycode.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/css/theme.min.css?ver=1.0.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/flaticon/fonts/flaticon.eot
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\flaticon\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/flaticon/fonts/flaticon.svg
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\flaticon\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/flaticon/fonts/flaticon.ttf
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\flaticon\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/flaticon/fonts/flaticon.woff
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\flaticon\fonts\flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/flaticon/fonts/flaticon.woff2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\flaticon\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/flaticon/style.min.css?ver=1.0
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\flaticon\style.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/fontawesome/all.min.css?ver=5.14
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\fontawesome\all.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/themes/limestone/assets/vendor/slick/slick.min.css?ver=1.8.1
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\assets\vendor\slick\slick.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/themes/limestone/style.css?ver=1.0.2
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\themes\limestone\style.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/2023/08/01.jpg
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2023\08\01.jpg
+Content Type: image/jpeg
+
+Uri: https://hpspower.in/wp-content/uploads/2023/09/Hot-Dip-Galvanized.jpg
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2023\09\Hot-Dip-Galvanized.jpg
+Content Type: image/jpeg
+
+Uri: https://hpspower.in/wp-content/uploads/2023/09/solar-system.jpg
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2023\09\solar-system.jpg
+Content Type: image/jpeg
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/About-company-1-300x280.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\About-company-1-300x280.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/About-company-1-600x560.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\About-company-1-600x560.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/About-company-1.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\About-company-1.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/about-img-1-1.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\about-img-1-1.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/about-img-1-287x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\about-img-1-287x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/about-img-1.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\about-img-1.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/CAST-IRON-PIT-COVER-1-1-300x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\CAST-IRON-PIT-COVER-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/COPPER-BONDED-EARTHING-ROD-1-300x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\COPPER-BONDED-EARTHING-ROD-1-300x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/cropped-HPS-Logo-Final-180x180.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\cropped-HPS-Logo-Final-180x180.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/cropped-HPS-Logo-Final-192x192.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\cropped-HPS-Logo-Final-192x192.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/cropped-HPS-Logo-Final-32x32.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\cropped-HPS-Logo-Final-32x32.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/GI-EARTHING-ELECTRODE-1-1-300x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\GI-EARTHING-ELECTRODE-1-1-300x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/GI-PERFORATED-EARTHING-PIPE-1-300x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\GI-PERFORATED-EARTHING-PIPE-1-300x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/MS-PIT-COVER-1-300x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\MS-PIT-COVER-1-300x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/RCC-PIT-COVER-1-300x300.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\RCC-PIT-COVER-1-300x300.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/2024/05/Structure-for-Solar-Water-P.jpg
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\05\Structure-for-Solar-Water-P.jpg
+Content Type: image/jpeg
+
+Uri: https://hpspower.in/wp-content/uploads/2024/06/HPS-Logo.png
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\2024\06\HPS-Logo.png
+Content Type: image/png
+
+Uri: https://hpspower.in/wp-content/uploads/burst/js/burst.min.js?ver=1783782010
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\burst\js\burst.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/uploads/burst/js/burst.min.js?ver=1784091954
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\burst\js\burst.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/custom-apple-webkit.min.css?ver=1773258517
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\custom-apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1773258517
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\custom-frontend.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/custom-widget-icon-list.min.css?ver=1773258517
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\custom-widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/post-137.css?ver=1773399252
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\post-137.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/post-2093.css?ver=1773258517
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\post-2093.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/post-2533.css?ver=1773258517
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\post-2533.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/post-371.css?ver=1773258517
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\post-371.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/post-441.css?ver=1773261211
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\post-441.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-content/uploads/elementor/css/post-73.css?ver=1773261211
+File Name: D:\hpspowerhouse\hpspower.in\wp-content\uploads\elementor\css\post-73.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-includes/css/dist/block-library/style.min.css?ver=ed42811ec089b5df346bd084fe67e77f
+File Name: D:\hpspowerhouse\hpspower.in\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://hpspower.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: D:\hpspowerhouse\hpspower.in\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: D:\hpspowerhouse\hpspower.in\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://hpspower.in/wp-json/
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://hpspower.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fhpspower.in%2F
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://hpspower.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fhpspower.in%2F&format=xml
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://hpspower.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fhpspower.in%2Fabout-us%2F
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://hpspower.in/wp-json/oembed/1.0/embed?url=https:%2F%2Fhpspower.in%2Fabout-us%2F&format=xml
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://hpspower.in/wp-json/wp/v2/pages/137
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\wp\v2\pages\137
+Content Type: application/json
+
+Uri: https://hpspower.in/wp-json/wp/v2/pages/73
+File Name: D:\hpspowerhouse\hpspower.in\wp-json\wp\v2\pages\73
+Content Type: application/json
+

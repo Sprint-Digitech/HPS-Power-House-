@@ -1,0 +1,17 @@
+/*
+Theme Name: Limestone
+Theme URI: https://demo.webtend.net/wp/consio
+Description: Design Agency Wordpress Theme
+Author: WebTend
+Author URI: https://themeforest.net/user/webtend
+Version: 1.0.2
+Requires PHP: 7.0
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Tags: one-column, two-columns, three-columns, right-sidebar, left-sidebar, custom-header, custom-menu, featured-images, post-formats, translation-ready
+Text Domain: limestone
+Domain Path: /languages
+*/
+/* Override for input visibility */
+input.mf-input, textarea.mf-input { background-color: #f0f0f0 !important; border: 1px solid #ccc !important; color: #111 !important; }
+input.mf-input::placeholder, textarea.mf-input::placeholder { color: #555 !important; opacity: 1 !important; }
